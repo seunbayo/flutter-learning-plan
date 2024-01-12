@@ -11,7 +11,7 @@ This is my Flutter learning plan for the year 2024 if you wish
 - Learn FLutter
 - Publish 1 app to playstore
 
-Learning Plan
+## Learning Plan
 
 - Dart Basics
     - [Dart overview](https://dart.dev/overview) - Dart: The language
@@ -33,7 +33,7 @@ Learning Plan
 
 
 - Setup Development Environment
-        - [Setup Dev](https://docs.flutter.dev/get-started/install)
+    - [Setup Dev](https://docs.flutter.dev/get-started/install)
 
     
 
