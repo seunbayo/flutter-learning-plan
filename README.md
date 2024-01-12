@@ -25,6 +25,17 @@ Learning Plan
 - Dart in 190 Sec
     - [Dart in 190sec](https://www.youtube.com/watch?v=NrO0CJCbYLA)
 
+- What is flutter?
+    - [Flutter](https://youtu.be/I9ceqw5Ny-4)
+
+- installing Dart SDK
+    - [Installing Dark SDK](https://dart.dev/get-dart)
+
+
+- Setup Development Environment
+        - [Setup Dev](https://docs.flutter.dev/get-started/install)
+
+    
 
 
 
