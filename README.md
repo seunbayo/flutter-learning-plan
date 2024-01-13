@@ -50,6 +50,7 @@ This is my Flutter learning plan for the year 2024 if you wish
 - Widget catalogue
     - [Widget catalogue] (https://docs.flutter.dev/ui/widgets)
 
-
+- Flutter Assets
+    - [Flutter assets] (https://www.youtube.com/watch?v=Hxh6nNHSUjo)
 
 
