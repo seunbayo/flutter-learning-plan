@@ -36,6 +36,19 @@ This is my Flutter learning plan for the year 2024 if you wish
     - [Setup Dev](https://docs.flutter.dev/get-started/install)
 
     
+- How to install flutter on Mac
+    - [Installing flutter] (https://youtu.be/f09c-nw15K8)
+
+
+- Widgets Basics
+    - [Widget Basic] (https://docs.flutter.dev/ui/widgets)
+
+- Widget Basics(video)
+    - [Widget Basic] (https://www.youtube.com/watch?v=FU2Eeizo95o)
+
+
+- Widget catalogue
+    - [Widget catalogue] (https://docs.flutter.dev/ui/widgets)
 
 
 
